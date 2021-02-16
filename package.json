@@ -22,7 +22,7 @@
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
-    "trumbowyg": "hkmogu/trumbowyg"
+    "trumbowyg": "^2.3.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.0",
